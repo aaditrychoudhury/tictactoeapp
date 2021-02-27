@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic-tac-toe</string>
+
+    <string name="play_again">Play Again!!</string>
+    <string name="text">text</string>
+    <string name="todo">TODO</string>
+
+</resources>
